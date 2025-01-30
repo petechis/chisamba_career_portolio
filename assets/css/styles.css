@@ -125,7 +125,6 @@ img {
 .bd-grid {
 	display: grid;	
 	max-width: 1024px;
-	display: grid;
 	grid-template-columns: 100%;
 	grid-column-gap: 0rem;
 	width: calc(100%);	
@@ -525,7 +524,7 @@ img {
 
 	.nav__list {
 		display: flex;
-		padding-top: 0
+		padding-top: 0		
 	}
 
 	.nav__item {
@@ -635,3 +634,146 @@ img {
 	  flex: 100%;
 	}
   }
+
+  @media (max-width: 768px) {
+	.home__container,
+  	.about__container{
+	  margin-bottom: 10%;
+	  flex: 100%;
+	}
+  }
+  /* Mobile Styles */
+@media (max-width: 768px) {
+	.container {
+	  flex-direction: column;
+	}
+  
+	.text-column {
+	  margin-left: 0; /* No margin on mobile */
+	  order: 1; /* Text column comes first */
+	}
+  
+	.image-column {
+	  order: 2; /* Image column comes second */
+	}
+  }
+  
+  .home-section {
+	padding: 20px;
+	/*border-bottom: 2px solid #ccc;*/
+  }
+  
+  .home-container {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+  }
+  
+  .home-text-column {
+	flex: 1;
+	margin-left: 4cm; /* Left margin for desktop */
+  }
+  
+  .home-image-column {
+	flex: 1;
+	width: 250px;
+	border-radius: .5rem;
+	padding: 5px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+  }
+  
+  .home-image-column img {
+	max-width: 70%;
+	height: auto;
+  } 
+  
+  /* Mobile Styles */
+  @media (max-width: 768px) {
+	.home-container {
+	  flex-direction: column;
+	}
+  
+	.home-text-column {
+	  margin-left: 0; /* No margin on mobile */
+	  order: 1; /* Text column comes first */
+	}
+
+	img::before {
+		content: '\A';
+		white-space: pre;
+	  }
+	
+	  img::after {
+		content: '\A';
+		white-space: pre;
+	  }
+  
+	.home-image-column {
+	  order: 2; /* Image column comes second */	
+	  margin-top: 20%;  
+	  max-width: 200%;
+	  width: 300px;
+	}
+  }
+  .about-section {
+	padding: 20px;
+	/*border-bottom: 2px solid #ccc;*/
+  }
+  
+  .about-container {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;	
+  }
+  
+  .about-text-column {
+	flex: 1;
+	margin-left: 0cm; /* Left margin for desktop */
+	margin-right: 3cm; /* Right margin for desktop */
+  }
+  
+  .about-image-column {
+	flex: 1;
+	width: 200px;
+	border-radius: .5rem;	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+  }
+  
+  .about-image-column img {
+	max-width: 70%;
+	height: auto;	
+  }
+  
+  /* Mobile Styles */
+  @media (max-width: 768px) {
+	.about-container {
+	  flex-direction: column;
+	}
+  
+	.about-text-column {
+	  order: 2; /* Text column comes first */
+	  margin-left: 0; /* No margin on mobile */
+	  margin-right: 0;  
+	}
+
+	img::before {
+		content: '\A';
+		white-space: pre;
+	  }
+	  	
+	  img::after {
+		content: '\A';
+		white-space: pre;
+	  }
+  
+	.about-image-column {
+	  order: 1; /* Image column comes second */
+	  margin-bottom: 10%; 
+	  max-width: 200%;
+	  width: 300px;	  
+	}
+  }  
