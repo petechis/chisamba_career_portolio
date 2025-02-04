@@ -469,7 +469,7 @@ img {
 	background-color: #0f0f0f;
 	color: #fff;
 	text-align: center;
-	padding: 1rem 0;
+	padding: 0;
 	font-family: Arial;
 	font-weight: 400;
 	font-size: 14px
@@ -585,7 +585,7 @@ img {
 	}
 
 	.contact__container {
-		margin-top: 15;
+		margin-top: 13;
 		justify-items: center
 	}
 }
