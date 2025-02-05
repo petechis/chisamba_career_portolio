@@ -34,15 +34,16 @@ const sr = ScrollReveal({
 });
 
 /*SCROLL HOME*/
-sr.reveal('.home__title',{}); 
+sr.reveal('.home__title',{});  
+sr.reveal('.home-text-column',{delay:200});
 sr.reveal('.button',{delay: 200}); 
-sr.reveal('.home__img',{delay: 400}); 
+sr.reveal('.home-image-column',{delay: 400}); 
 sr.reveal('.home__social-icon',{ interval: 200}); 
 
 /*SCROLL ABOUT*/
-sr.reveal('.about__img',{}); 
+sr.reveal('.about-image-column',{delay:400}); 
 sr.reveal('.about__subtitle',{delay: 400}); 
-sr.reveal('.about__text',{delay: 400}); 
+sr.reveal('.about-text-column',{delay: 400}); 
 
 /*SCROLL SKILLS*/
 sr.reveal('.skills__subtitle',{}); 
