@@ -1,7 +1,9 @@
 # 🇩🇪 Deutsch – README.md
 
 # Karriereportfolio – Pete Chisamba 🚀
-[English](../EN/README.md) | [German](README.md)
+
+[NAVIGATION ->Back to English](../../README.md)
+
 ## 🧠 Technische Specialisierungen
 
 ### 👨‍💻 Backend & Architecture

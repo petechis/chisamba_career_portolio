@@ -3,7 +3,9 @@
 
 # Career Portfolio – Pete Chisamba 🚀
 
-[English](README) | [German](./translations/DE/README.md)
+[English](README) | [German](./translations/DE/README.md) | [Russian](./translations/RU/README.md) | [Shona](./translations/SH/README.md) | [Nyanja](./translations/MW/README.md) | [Swahili](./translations/SW/README.md) | [Ndebele](./translations/ND/README.md) | [Venda](./translations/VE/README.md) | [Zulu](./translations/ZU/README.md)
+
+
 ## 🧠 Technical Specialisation
 
 ### 👨‍💻 Backend & Architecture
