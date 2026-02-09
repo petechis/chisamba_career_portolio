@@ -1,9 +1,8 @@
+# 🇩🇪 Deutsch – README.md
 
-# 🇬🇧 English – README.md
+# Karriereportfolio – Pete Chisamba 🚀
 
-# Career Portfolio – Pete Chisamba 🚀
-
-## 🧠 Technical Specialisation
+## 🧠 Technische Specialisierungen
 
 ### 👨‍💻 Backend & Architecture
 
@@ -22,6 +21,7 @@
 ![Responsive](https://img.shields.io/badge/Responsive%20Design-UI%2FUX-purple?style=for-the-badge)
 
 ### ⚙️ DevOps • Cloud • Platform Engineering
+
 ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -73,74 +73,76 @@
 ![Midjourney](https://img.shields.io/badge/Midjourney-Image%20Generation-black?style=for-the-badge)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-Voice%20AI-darkgreen?style=for-the-badge)
 
-## Welcome to my interactive career portfolio
+## Willkommen zu meinem interaktiven Karriereportfolio
 
-This website presents my professional journey, technical expertise, and selected project work across **Data Science, AI, and Software Engineering**.
+Diese Website zeigt meinen beruflichen Werdegang, technologische Kompetenzen sowie ausgewählte Projekte aus **Data Science, KI und Softwareentwicklung**.
 
-Designed with clarity, speed, and business focus in mind – the goal is simple:  
-👉 enable recruiters, hiring managers and collaborators to understand my value within minutes.
-
----
-
-## 🌐 Live Experience
-
-Open the portfolio in your browser and navigate through clearly structured sections via the top menu.
+Konzipiert für Klarheit, Geschwindigkeit und Business-Relevanz –  
+👉 Recruiter und Entscheider sollen meinen Mehrwert in wenigen Minuten erkennen.
 
 ---
 
-## 🧭 Navigation Overview
+## 🌐 Live erleben
+
+Über das Menü gelangen Sie schnell zu allen Bereichen des Portfolios.
+
+---
+
+## 🧭 Navigationsübersicht
 
 **Home**  
-Quick executive snapshot, personal positioning and direct CV download.
+Kurzprofil, Positionierung und direkter Download des Lebenslaufs.
 
 **About**  
-Background, academic foundation (MSc Data Science & Business Analytics) and core technology landscape.
+Akademischer Hintergrund (MSc Data Science & Business Analytics) sowie Technologie-Schwerpunkte.
 
 **Projects**  
-Hands-on applications including:
+Praxisorientierte Anwendungen u.a. in:
 
-- Statistical & marketing analytics  
-- BI dashboards  
-- Medical & experimental analytics  
-- Recommendation systems  
+- Statistik & Marketing Analytics  
+- BI & Dashboarding  
+- Medizinische Analysen  
+- Recommendation Systeme  
 - Generative AI & RAG  
-- Forecasting & time series  
-- Customer automation via AI
+- Forecasting & Zeitreihen  
+- KI-gestützte Kundenautomatisierung
 
-Each project links to either a live demo or the source code.
+Jedes Projekt verweist auf eine Live-Demo oder den Source Code.
 
 **Skills**  
-Compact overview of capabilities across:
+Strukturierte Übersicht über:
 
 - Data Science & Machine Learning  
 - Software Engineering  
 - Business Intelligence  
-- Professional & interpersonal strengths
+- Methodische & soziale Kompetenzen
 
 **Certifications**  
-Verified continuous learning in AI, analytics, big data and tooling.
+Nachweise kontinuierlicher Weiterbildung in KI, Analytics und Big Data.
 
 **Contact**  
-Direct ways to reach me including LinkedIn and GitHub.
+Direkte Kontaktmöglichkeiten inkl. LinkedIn & GitHub.
 
 ---
 
-## 💡 What makes this portfolio different?
+## 💡 Was dieses Portfolio besonders macht
 
-✔ Business + Technology mindset  
-✔ Enterprise software background  
-✔ Production-oriented analytics  
-✔ Real implementations, not theory  
-✔ Built for decision makers
-
----
-
-## 🛠 Tech Foundation
-
-HTML • CSS • JavaScript • Streamlit • BI Tools • Modern AI Stack
+✔ Verbindung von Business & Technologie  
+✔ Langjährige Enterprise-Erfahrung  
+✔ Produktionsnahe Analytics  
+✔ Reale Implementierungen statt Theorie  
+✔ Entwickelt für Entscheider
 
 ---
 
-## 🤝 Let’s Connect
+## 🛠 Technologische Basis
 
-If you are searching for a professional who bridges **engineering, analytics and business impact**, I would be happy to talk.
+HTML • CSS • JavaScript • Streamlit • BI Tools • Moderner AI-Stack
+
+---
+
+## 🤝 Kontakt
+
+Wenn Sie jemanden suchen, der **Engineering, Daten und geschäftlichen Nutzen** verbindet, freue ich mich auf den Austausch.
+
+**Pete Chisamba**

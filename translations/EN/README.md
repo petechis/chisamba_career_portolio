@@ -73,7 +73,7 @@
 ![Midjourney](https://img.shields.io/badge/Midjourney-Image%20Generation-black?style=for-the-badge)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-Voice%20AI-darkgreen?style=for-the-badge)
 
-## Welcome to my interactive career portfolio
+## Welcome to my interactive career portfolio.
 
 This website presents my professional journey, technical expertise, and selected project work across **Data Science, AI, and Software Engineering**.
 
