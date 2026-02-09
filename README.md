@@ -3,6 +3,7 @@
 
 # Career Portfolio – Pete Chisamba 🚀
 
+[English](README) | [German](./translations/DE/README.md)
 ## 🧠 Technical Specialisation
 
 ### 👨‍💻 Backend & Architecture
