@@ -128,16 +128,6 @@ Direct ways to reach me including LinkedIn and GitHub.
 
 ---
 
-## 💡 What makes this portfolio different?
-
-✔ Business + Technology mindset  
-✔ Enterprise software background  
-✔ Production-oriented analytics  
-✔ Real implementations, not theory  
-✔ Built for decision makers
-
----
-
 ## 🛠 Tech Foundation
 
 HTML • CSS • JavaScript • Streamlit • BI Tools • Modern AI Stack
